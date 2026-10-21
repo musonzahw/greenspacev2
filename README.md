@@ -1,7 +1,34 @@
+<div align="center">
+
 # 🌿 GreenSpace v2
+
+### Connect with your community. Take action for a greener future.
+
+[![Flutter](https://img.shields.io/badge/Flutter-3.9.2%2B-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.9.2%2B-0175C2?logo=dart&logoColor=white)](https://dart.dev)
+[![Supabase](https://img.shields.io/badge/Backend-Supabase-3FCF8E?logo=supabase&logoColor=white)](https://supabase.com)
+[![GitHub stars](https://img.shields.io/github/stars/musonzahw/greenspacev2?style=social)](https://github.com/musonzahw/greenspacev2/stargazers)
+
+</div>
 
 GreenSpace is a Flutter app for discovering environmental news, connecting with a
 community, joining events, and reporting local environmental concerns.
+
+## 📱 App Preview
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><strong>Sign in</strong><br><img src="flutter_01.png" alt="GreenSpace sign-in screen" width="180"></td>
+    <td align="center"><strong>Community forum</strong><br><img src="flutter_02.png" alt="GreenSpace community forum" width="180"></td>
+    <td align="center"><strong>Green Guardian</strong><br><img src="flutter_05.png" alt="GreenSpace environmental report form" width="180"></td>
+  </tr>
+</table>
+</div>
+
+> These images are stored in the repository, so GitHub displays them using
+> relative paths. Add or replace screenshots by committing image files and
+> updating the image paths above.
 
 ## ✨ Features
 
