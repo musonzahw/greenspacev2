@@ -82,19 +82,7 @@ before using connected features. Use a Supabase **anon** key with appropriate
 Row Level Security policies; never put a service-role key or other private
 credential in a client app or commit real credentials.
 
-## 🗂️ Project Structure
 
-```text
-lib/
-├── main.dart          # App entry point and service initialization
-├── models/            # Data models
-├── providers/         # App state
-├── screens/           # App pages and flows
-├── services/          # Supabase, news, and image-analysis integrations
-└── utils/             # Shared utilities and theme
-assets/                # Images and animation assets
-supabase/              # Supabase-related project files
-```
 
 ## 🧪 Tests
 
